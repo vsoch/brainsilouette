@@ -1,0 +1,12 @@
+order	score	color	region	size
+1	-0.89	#6495ED	Insula	2438
+2	-0.73	#8B0000	Cerebellum	26868
+3	-0.5	#00CED1	Caudate	2063
+4	-0.12	gray	No_Label	721485
+5	0.0	#FF3030	Frontal_Lobe	57915
+6	0.2	#76EE00	Putamen	1990
+7	0.44	#FF6347	Parietal_Lobe	35927
+8	0.45	black	Whole_Brain	902629
+9	0.5	#473C8B	Thalamus	2491
+10	0.59	#7AC5CD	Temporal_Lobe	29910
+11	0.8	#FF7F24	Occipital_Lobe	21542
